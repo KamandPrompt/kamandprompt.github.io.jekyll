@@ -10,9 +10,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KamandPrompt"
+title                    : "<strong>Kamand</strong>Prompt"
 title_separator          : "|"
-name                     : "KamandPrompt"
+name                     : "<strong>Kamand</strong>Prompt"
 description              : "Website of KamandPrompt - IIT Mandi."
 url                      : "https://kamandprompt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
