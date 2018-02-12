@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
+  - title: "ABOUT"
     url: /about/
-  - title: "Events"
+  - title: "EVENTS"
     url: /events/
-  - title: "Projects"
+  - title: "PROJECTS"
     url: /projects/
-  - title: "Team"
+  - title: "TEAM"
     url: /team/
-  - title: "Contact Us"
+  - title: "CONTACT US"
     url: /contact/
