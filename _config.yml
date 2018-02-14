@@ -241,6 +241,12 @@ compress_html:
   ignore:
     envs: development
 
+# collections
+collections:
+  events:
+    name: "Events"
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -253,5 +259,16 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
+      share: true
+      related: true
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
       share: true
       related: true
