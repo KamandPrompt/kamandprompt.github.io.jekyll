@@ -6,8 +6,13 @@ permalink: /events/
 
 {% capture written_label %}'None'{% endcapture %}
 
-{% for item in site.my_collection %}
-  <h2>{{ item.title }}</h2>
-  <p>{{ item.description }}</p>
-  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+{% capture label %}{{ site.events.label }}{% endcapture %}
+{% if label != written_label %}
+  <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+  {% capture written_label %}{{ label }}{% endcapture %}
+{% endif %}
+{% for post in site.events %}
+  {% unless site.events.output == false or site.events.label == "posts" %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
