@@ -11,7 +11,8 @@ permalink: /events/
   <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
   {% capture written_label %}{{ label }}{% endcapture %}
 {% endif %}
-{% for post in site.events %}
+{% assign events = site.events | reverse %}
+{% for post in events %}
   {% unless site.events.output == false or site.events.label == "posts" %}
     {% include archive-single.html %}
   {% endunless %}
