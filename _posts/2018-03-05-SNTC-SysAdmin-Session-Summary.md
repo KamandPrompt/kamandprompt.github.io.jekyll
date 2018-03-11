@@ -149,6 +149,42 @@ server {
 
 ```
 
+## Teams
+
+Each team will have some set of students responsible for solving the problem as well as the documentation. One students from each team is responsible for the overall documentation of the work done by the team. For all the teams, the Programming Club coordinators and the Technical Secretary, who are [Abhishek](mailto:abhishekbhardwaj540@gmail.com), [Hitesh Ramchandani](mailto:hitr9831@gmail.com) and [Kushagra](mailto:kushagra.s.888@gmail.com), will look at the documentation of every team and will be responsible for the coordination between the different teams.
+
+**1. Containerization**
+
+* [Abhishek](mailto:abhishekbhardwaj540@gmail.com) (Overall Documentation)
+* [Sai Tarun Reddy Palla](mailto:saitarunreddypalla@gmail.com)
+* [Aashish Kumar](mailto:kumaraashish118@gmail.com)
+* [Prabhakar Prasad](mailto:b16069@students.iitmandi.ac.in)
+
+**2. Heirarchical DNS, Nginx and SSL**
+
+* [Hitesh Ramchandani](mailto:hitr9831@gmail.com) (Overall Documentation)
+* [AMRENDRA SINGH](mailto:b16010@students.iitmandi.ac.in)
+* [Dheeraj](mailto:b17041@students.iitmandi.ac.in)
+
+**3. Managing Users, Backup, Restore and Server Security and Maintenance**
+
+* [Kushagra](mailto:kushagra.s.888@gmail.com) (Overall Documentation)
+* [Abhigyan Khaund](mailto:b16082@students.iitmandi.ac.in)
+* [Lakshay arora](mailto:b16060@students.iitmandi.ac.in)
+
+**4. Unified login using OpenID Connect**
+
+* [Sahil Yadav](mailto:sahil_yadav@students.iitmandi.ac.in) (Overall Documentation)
+* [Aman Khandelwal](mailto:amankh1999@gmail.com)
+* [Swapnil Rustagi](mailto:b17104@students.iitmandi.ac.in)
+* [Vipul Sharma](mailto:vsvipul555@gmail.com)
+
+**5. Third party applications**
+
+* [Aditya Singh](mailto:b16085@students.iitmandi.ac.in) (Overall Documentation)
+* [Aaditya Arora](mailto:B17071@students.iitmandi.ac.in)
+* [Akshat Malviya](mailto:ancientfuture1337@gmail.com)
+
 ## Summary
 
 I hope that this document helps you get a better understanding of the various problems associated with the server and transfers the knowledge I gained while developing the server. I wish to see a robust and refined implementation before the end of this semester. Feel free to contact me, in case of doubts.
