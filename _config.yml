@@ -10,6 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
+site-title               : "KamandPrompt"
 title                    : "KamandPrompt"
 title_separator          : "|"
 name                     : "KamandPrompt"
